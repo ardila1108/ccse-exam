@@ -217,7 +217,7 @@
   },
   "1033": {
     "id": "1033",
-    "question": "T odos los españoles tienen el deber de conocer la lengua…",
+    "question": "Todos los españoles tienen el deber de conocer la lengua…",
     "a": "autonómica del Estado.",
     "b": "oficial del Estado.",
     "c": "local del Estado.",
@@ -256,7 +256,7 @@
     "question": "¿Qué institución tiene como fin la promoción de la enseñanza de la lengua española y la difusión de la cultura en español?",
     "a": "El Instituto Nacional de Administración Pública.",
     "b": "El Instituto Nacional de Estadística.",
-    "c": "",
+    "c": "El Instituto Cervantes.",
     "task": 1,
     "answer": "c"
   },
@@ -354,7 +354,7 @@
     "id": "1047",
     "question": "¿Cuántas comunidades autónomas tienen su propia bandera?",
     "a": "Ninguna.",
-    "b": "T odas.",
+    "b": "Todas.",
     "c": "Las que tienen una lengua cooficial.",
     "task": 1,
     "answer": "b"
@@ -390,7 +390,7 @@
     "id": "1038",
     "question": "¿Cuál de los siguientes organismos trabaja para conseguir la normalización lingüística?",
     "a": "El Institut Ramon Llull.",
-    "b": "",
+    "b": "El Instituto Cervantes.",
     "c": "La Real Academia Española.",
     "task": 1,
     "answer": "c"
@@ -434,7 +434,7 @@
   "1043": {
     "id": "1043",
     "question": "¿Cuál de las siguientes siglas corresponde a un partido político?",
-    "a": "P P.",
+    "a": "PP.",
     "b": "PIB.",
     "c": "UE.",
     "task": 1,
@@ -604,10 +604,10 @@
   },
   "1076": {
     "id": "1076",
-    "question": "El Ejército español participa desde",
-    "a": "",
-    "b": "",
-    "c": "",
+    "question": "El Ejército español participa desde 1989 en misiones de paz de la…",
+    "a": "Organización de Estados Iberoamericanos (OEI).",
+    "b": "Unión Europea Occidental (UEO).",
+    "c": "Organización de las Naciones Unidas (ONU).",
     "task": 1,
     "answer": "c"
   },
@@ -634,7 +634,7 @@
     "question": "¿Cuál de los siguientes políticos ha sido presidente del Gobierno en España?",
     "a": "Manuel Fraga.",
     "b": "José María Aznar.",
-    "c": "Y olanda Díaz.",
+    "c": "Yolanda Díaz.",
     "task": 1,
     "answer": "b"
   },
@@ -814,7 +814,7 @@
     "question": "¿Quién puede presentar una queja al Defensor del Pueblo?",
     "a": "Solo los ciudadanos legalmente residentes.",
     "b": "Solo los españoles mayores de 18 años.",
-    "c": "T odos los ciudadanos, españoles o extranjeros.",
+    "c": "Todos los ciudadanos, españoles o extranjeros.",
     "task": 1,
     "answer": "c"
   },
@@ -1146,7 +1146,7 @@
     "id": "2008",
     "question": "La Constitución garantiza el derecho de los españoles a una vivienda digna.",
     "a": "Verdadero.",
-    "b": "Falso. Derechos y deberes fundamentales",
+    "b": "Falso.",
     "c": "",
     "task": 2,
     "answer": "a"
@@ -1351,7 +1351,7 @@
   },
   "2028": {
     "id": "2028",
-    "question": "T odos los ciudadanos tienen acceso al sistema de Seguridad Social público, excepto si están desempleados.",
+    "question": "Todos los ciudadanos tienen acceso al sistema de Seguridad Social público, excepto si están desempleados.",
     "a": "Verdadero.",
     "b": "Falso.",
     "c": "",
@@ -1360,7 +1360,7 @@
   },
   "2029": {
     "id": "2029",
-    "question": "T odos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
+    "question": "Todos tienen derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.",
     "a": "Verdadero.",
     "b": "Falso.",
     "c": "",
@@ -1756,7 +1756,7 @@
   },
   "4023": {
     "id": "4023",
-    "question": "T eresa Perales y Daniel Molina son...",
+    "question": "Teresa Perales y Daniel Molina son...",
     "a": "campeones paraolímpicos.",
     "b": "músicos famosos.",
     "c": "artistas de cine.",
@@ -2072,7 +2072,7 @@
   "5008": {
     "id": "5008",
     "question": "¿Cuál de estos canales de televisión es autonómico?",
-    "a": "T elecinco.",
+    "a": "Telecinco.",
     "b": "Nova.",
     "c": "Canal Sur.",
     "task": 5,
@@ -2118,8 +2118,8 @@
     "id": "5013",
     "question": "¿Cómo se llama la revisión que deben pasar obligatoriamente los coches?",
     "a": "IBI (Impuesto sobre Bienes Inmuebles).",
-    "b": "ITV (Inspección T écnica de Vehículos).",
-    "c": "ITE (Inspección T écnica de Edificios).",
+    "b": "ITV (Inspección Técnica de Vehículos).",
+    "c": "ITE (Inspección Técnica de Edificios).",
     "task": 5,
     "answer": "b"
   },
@@ -2180,7 +2180,7 @@
   "5035": {
     "id": "5035",
     "question": "¿Qué tipo de impuestos tienen que pagar los ciudadanos en España?",
-    "a": "Impuestos directos como el IRPF .",
+    "a": "Impuestos directos como el IRPF.",
     "b": "Impuestos indirectos como el IVA.",
     "c": "Impuestos directos e indirectos.",
     "task": 5,
@@ -2189,7 +2189,7 @@
   "5021": {
     "id": "5021",
     "question": "¿Cuál de estos canales de televisión es público?",
-    "a": "T ele 5.",
+    "a": "Tele 5.",
     "b": "La 1.",
     "c": "Antena 3.",
     "task": 5,
@@ -2378,7 +2378,7 @@
   "5042": {
     "id": "5042",
     "question": "¿Cuál de estos puertos es uno de los principales de España?",
-    "a": "T enerife.",
+    "a": "Tenerife.",
     "b": "Alicante.",
     "c": "Algeciras.",
     "task": 5,
@@ -2387,7 +2387,7 @@
   "5058": {
     "id": "5058",
     "question": "¿Cuál es el canal de televisión estatal que transmite noticias de actualidad nacional e internacional continuamente?",
-    "a": "T eledeporte.",
+    "a": "Teledeporte.",
     "b": "La 1.",
     "c": "Canal 24 horas.",
     "task": 5,
@@ -2424,7 +2424,7 @@
     "id": "5062",
     "question": "¿Qué título se obtiene al finalizar un ciclo de grado medio de Formación Profesional?",
     "a": "Bachiller.",
-    "b": "T écnico.",
+    "b": "Técnico.",
     "c": "Graduado en ESO.",
     "task": 5,
     "answer": "b"
@@ -2668,7 +2668,7 @@
     "question": "Las Escuelas Oficiales de Idiomas…",
     "a": "son centros de enseñanza privada.",
     "b": "son para mayores de 16 años.",
-    "c": "",
+    "c": "dependen del Instituto Cervantes.",
     "task": 5,
     "answer": "b"
   },
@@ -2695,7 +2695,7 @@
     "question": "¿En cuál de estos sectores destaca España?",
     "a": "En el turismo.",
     "b": "En la industria automovilística.",
-    "c": "En tecnología digital. SOLUCIONES",
+    "c": "En tecnología digital.",
     "task": 5,
     "answer": "a"
   }
